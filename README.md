@@ -28,4 +28,29 @@ https://potplayer.daum.net/
 ### SumatraPDF
 https://www.sumatrapdfreader.org/free-pdf-reader.html
 
+### 3DM游戏运行库合集安装包v3.0
+https://dl.3dmgame.com/patch/28051.html
+
+### BaiduNetdisk
+https://pan.baidu.com/
+
+### Wechat
+https://weixin.qq.com/
+
+### RIME
+https://rime.im/
+
+### GooglePinyin
+
+### ThunderMini
+
+### QQ
+https://im.qq.com/
+
+### WPS
+https://www.wps.cn/
+
 ######################################################
+
+### VirtualBox
+https://www.virtualbox.org/
