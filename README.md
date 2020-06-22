@@ -76,6 +76,9 @@ https://justgetflux.com/
 ### InternetDownloadManager
 https://www.internetdownloadmanager.com/
 
+### Sublime
+https://www.sublimetext.com/
+
 ######################################################
 
 ### VirtualBox
