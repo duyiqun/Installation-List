@@ -83,3 +83,40 @@ https://www.sublimetext.com/
 
 ### VirtualBox
 https://www.virtualbox.org/
+
+### Android Studio
+https://developer.android.com/studio/archive
+
+### MarkdownPad
+http://markdownpad.com/
+
+### Wireshark
+https://www.wireshark.org/download.html
+
+### HiJson
+
+### Java JDK
+https://www.oracle.com/java/technologies/javase-downloads.html
+
+### Tomcat
+https://tomcat.apache.org/
+
+### WebStorm
+https://www.jetbrains.com/webstorm/
+
+### Git
+https://git-scm.com/
+
+### GitHubDesktop
+https://desktop.github.com/
+
+### SourceTree
+https://www.sourcetreeapp.com/
+
+### TortoiseGit
+https://tortoisegit.org/download/
+
+### Subversion
+http://subversion.apache.org/
+
+
