@@ -50,6 +50,32 @@ https://im.qq.com/
 ### WPS
 https://www.wps.cn/
 
+### Alibaba Trade Manager
+https://trademanager.alibaba.com/wangwang
+
+### eudic
+https://www.eudic.net/v4/en/app/eudic
+
+######################################################
+
+### aMule
+https://www.amule.org/
+
+### Avast
+https://www.avast.com/free-antivirus-download#pc
+
+### eMule
+https://www.emule-project.net/home/perl/general.cgi?l=42
+
+### FreeDownloadManager
+https://www.freedownloadmanager.org/
+
+### f.lux
+https://justgetflux.com/
+
+### InternetDownloadManager
+https://www.internetdownloadmanager.com/
+
 ######################################################
 
 ### VirtualBox
